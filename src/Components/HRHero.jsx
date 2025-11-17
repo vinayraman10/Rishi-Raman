@@ -34,10 +34,10 @@ export default function HRHero() {
             </div>
 
             {/* Down arrow */}
-            <div className="absolute top-200  left-1/2 transform -translate-x-1/2 flex flex-col items-center">
-              <HiArrowDown className="text-white text-3xl animate-bounce" />
+            {/* <div className="absolute top-200  left-1/2 transform -translate-x-1/2 flex flex-col items-center">
+              <HiArrowDown className="text-white text-3xl " />
               <span className="text-white/70 text-sm mt-1">Scroll Down</span>
-            </div>
+            </div> */}
           </section>
 
           {/* Right profile image */}
